@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThalesBarreto
+- 👋 Oi sou Thales Henrique Fernandes Barreto
 - 👀 estou interessado em ter um bom trabalho
 - 🌱 Estou aprendendo atualmente:PHP, HTML/CSS, Javascritp
 - 💞️ colaboro com quem me dar um emprego bom e ser tratado como um humano
